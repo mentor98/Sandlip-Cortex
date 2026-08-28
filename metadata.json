@@ -1,0 +1,7 @@
+{
+  "name": "Sandlip Cortex",
+  "description": "AI-Powered Adaptive Cognitive Intelligence Game and Brain DNA Evolution Platform.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
